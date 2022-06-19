@@ -1,0 +1,6 @@
+---
+layout: default
+title: Home
+---
+
+Bem-vindo ao site de documentação da Semana Acadêmica 2022.
